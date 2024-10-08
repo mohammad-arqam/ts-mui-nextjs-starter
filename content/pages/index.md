@@ -5,11 +5,8 @@ sections:
   - type: HeroSection
     title: 'Welcome,'
     subtitle: ''
-    text: |+
-      ```
-      System.out.print("My name is Mohammad Arqam"); 
-      ```
-
+    text: |
+      console.log("Hello World!");
     actions:
       - type: Button
         label: Start Building
