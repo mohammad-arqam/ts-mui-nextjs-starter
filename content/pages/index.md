@@ -4,7 +4,7 @@ type: Page
 sections:
   - type: HeroSection
     title: 'Welcome,'
-    subtitle: My name is Mohammad Arqam.
+    subtitle: ''
     text: >
       I'm Mohammad Arqam, a current Bachelor's student at the University of
       Manitoba.
