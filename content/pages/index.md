@@ -83,7 +83,7 @@ sections:
             variant: text
             color: primary
   - type: CardsSection
-    title: About me
+    title: "\U0001F64B\U0001F3FD‍♂️ About me"
     subtitle: Section subtitle here
     items:
       - type: Card
