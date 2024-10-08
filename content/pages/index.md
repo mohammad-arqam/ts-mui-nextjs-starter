@@ -3,39 +3,31 @@ title: Home
 type: Page
 sections:
   - type: HeroSection
-    title: 'Welcome,'
+    title: "Welcome \U0001F44B\U0001F3FD"
     subtitle: ''
     text: >+
-      <div style="text-align: left">## I'm Mohammad Arqam, a current Bachelor's
-      student at the University of Manitoba.</div>
+      <div style="text-align: left">## I'm [Mohammad
+      Arqam](www.linkedin.com/in/mohammadarqam), a current Bachelor's student at
+      the University of Manitoba.</div>
 
-    actions:
-      - type: Button
-        label: Start Building
-        url: 'https://docs.netlify.com/visual-editor/get-started/'
-        size: large
-        variant: contained
-        color: primary
-      - type: Button
-        label: Read the Docs
-        url: 'https://docs.netlify.com/visual-editor/overview/'
-        size: large
-        variant: outlined
-        color: primary
+
+      ```
+
+      ```
+
+    actions: []
     image:
       type: Image
       url: /images/hero.svg
       altText: Hero section image
   - type: CardsSection
-    title: Cards Section Title
-    subtitle: The section subtitle
+    title: Navigate
+    subtitle: ''
     items:
       - type: Card
-        title: First Item Title
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        title: About me
+        text: |
+          Learn more about me.
         image:
           type: Image
           url: /images/nextjs.svg
@@ -48,11 +40,9 @@ sections:
             variant: text
             color: primary
       - type: Card
-        title: Second Item Title
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        title: Education
+        text: |
+          My academic background.
         image:
           type: Image
           url: /images/mui-5.svg
@@ -65,11 +55,9 @@ sections:
             variant: text
             color: primary
       - type: Card
-        title: Item Title
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        title: Work Experience
+        text: |
+          My employment background.
         image:
           type: Image
           url: >-
@@ -82,16 +70,4 @@ sections:
             size: medium
             variant: text
             color: primary
-  - type: CardsSection
-    title: "\U0001F64B\U0001F3FD‍♂️ About me"
-    subtitle: Section subtitle here
-    items:
-      - type: Card
-        title: ''
-        text: ''
-        image:
-          type: Image
-          url: /images/sustainability-education-research.jpg
-          altText: Item image
-        actions: []
 ---

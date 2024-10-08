@@ -18,6 +18,13 @@
             },
             {
                 "type": "Link",
+                "label": "Work Experience",
+                "url": "/",
+                "underline": "always",
+                "color": "primary"
+            },
+            {
+                "type": "Link",
                 "label": "Education",
                 "url": "https://docs.netlify.com/visual-editor/overview/",
                 "underline": "hover"
@@ -25,7 +32,7 @@
         ]
     },
     "footer": {
-        "copyrightText": "Powered by [Netlify](https://www.netlify.com/).",
+        "copyrightText": "",
         "navLinks": [
             {
                 "type": "Link",
@@ -35,15 +42,15 @@
             },
             {
                 "type": "Link",
-                "label": "About",
+                "label": "Linked in",
                 "underline": "hover",
-                "url": "/about"
+                "url": "/🙋🏽‍♂️ About me"
             },
             {
                 "type": "Link",
-                "label": "Documentation",
+                "label": "",
                 "underline": "hover",
-                "url": "https://docs.netlify.com/visual-editor/overview/"
+                "url": ""
             }
         ]
     }
