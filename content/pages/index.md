@@ -12,8 +12,6 @@ sections:
 
       ```
 
-      javascript: (() => {alert('Hello, World!');})();
-
       ```
 
     actions:
