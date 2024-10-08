@@ -18,6 +18,13 @@
             },
             {
                 "type": "Link",
+                "label": "Work Experience",
+                "url": "/",
+                "underline": "always",
+                "color": "primary"
+            },
+            {
+                "type": "Link",
                 "label": "Education",
                 "url": "https://docs.netlify.com/visual-editor/overview/",
                 "underline": "hover"
