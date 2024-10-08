@@ -12,7 +12,7 @@ sections:
     actions:
       - type: Button
         label: About me
-        url: "\U0001F64B\U0001F3FD‍♂️ About me"
+        url: 'javascript: (() => {  alert(''Hello, World!'');})();'
         size: large
         variant: contained
         color: primary
