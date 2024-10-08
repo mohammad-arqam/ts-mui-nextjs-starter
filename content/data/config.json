@@ -2,7 +2,7 @@
     "type": "Config",
     "favicon": "/images/favicon.svg",
     "header": {
-        "title": "TypeScript + MUI Starter",
+        "title": "Mohammad's Portfolio",
         "navLinks": [
             {
                 "type": "Link",
@@ -18,7 +18,7 @@
             },
             {
                 "type": "Link",
-                "label": "Documentation",
+                "label": "Education",
                 "url": "https://docs.netlify.com/visual-editor/overview/",
                 "underline": "hover"
             }
