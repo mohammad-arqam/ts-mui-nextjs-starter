@@ -5,8 +5,9 @@ sections:
   - type: HeroSection
     title: 'Welcome,'
     subtitle: ''
-    text: |
-      console.log("Hello World!");
+    text: |+
+      fsfsv `fsdfsfsdfs df` dfgsfdg
+
     actions:
       - type: Button
         label: Start Building
