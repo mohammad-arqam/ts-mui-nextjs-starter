@@ -99,11 +99,4 @@ sections:
           url: /images/mui-5.svg
           altText: Item image
         actions: []
-      - type: Card
-        title: ''
-        text: |+
-          ```
-          ```
-
-        actions: []
 ---
