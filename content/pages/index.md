@@ -12,7 +12,7 @@ sections:
     actions:
       - type: Button
         label: About me
-        url: 'https://docs.netlify.com/visual-editor/get-started/'
+        url: "\U0001F64B\U0001F3FD‍♂️ About me"
         size: large
         variant: contained
         color: primary
