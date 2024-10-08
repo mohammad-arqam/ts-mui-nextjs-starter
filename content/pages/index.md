@@ -17,7 +17,7 @@ sections:
     actions:
       - type: Button
         label: About me
-        url: ''
+        url: /
         size: large
         variant: contained
         color: primary
