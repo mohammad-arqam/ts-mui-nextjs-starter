@@ -91,7 +91,7 @@ sections:
         text: ''
         image:
           type: Image
-          url: /images/um photo.jpg
+          url: /images/sustainability-education-research.jpg
           altText: Item image
         actions: []
 ---
