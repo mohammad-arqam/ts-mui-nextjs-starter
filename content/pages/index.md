@@ -5,9 +5,10 @@ sections:
   - type: HeroSection
     title: 'Welcome,'
     subtitle: ''
-    text: >
-      I'm Mohammad Arqam, a current Bachelor's student at the University of
+    text: >+
+      ## I'm Mohammad Arqam, a current Bachelor's student at the University of
       Manitoba.
+
     actions:
       - type: Button
         label: Start Building
