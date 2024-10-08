@@ -16,12 +16,6 @@ sections:
 
     actions:
       - type: Button
-        label: About me
-        url: ''
-        size: large
-        variant: contained
-        color: primary
-      - type: Button
         label: Read the Docs
         url: 'https://docs.netlify.com/visual-editor/overview/'
         size: large
