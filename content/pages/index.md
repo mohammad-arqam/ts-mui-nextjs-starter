@@ -7,7 +7,7 @@ sections:
     subtitle: ''
     text: >+
       <div style="text-align: left">## I'm Mohammad Arqam, a current Bachelor's
-      student at the University of Manitoba. </div>
+      student at the University of Manitoba.</div>
 
 
       ```
