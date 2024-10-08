@@ -6,8 +6,9 @@ sections:
     title: "Welcome \U0001F44B\U0001F3FD"
     subtitle: ''
     text: >+
-      <div style="text-align: left">## I'm Mohammad Arqam, a current Bachelor's
-      student at the University of Manitoba.</div>
+      <div style="text-align: left">## I'm [Mohammad
+      Arqam](www.linkedin.com/in/mohammadarqam), a current Bachelor's student at
+      the University of Manitoba.</div>
 
 
       ```
