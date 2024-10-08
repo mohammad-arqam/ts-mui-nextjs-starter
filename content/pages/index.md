@@ -41,10 +41,8 @@ sections:
             color: primary
       - type: Card
         title: Education
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: |
+          My academic background.
         image:
           type: Image
           url: /images/mui-5.svg
