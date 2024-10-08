@@ -87,7 +87,7 @@ sections:
     subtitle: Section subtitle here
     items:
       - type: Card
-        title: Item Title
+        title: ''
         text: ''
         image:
           type: Image
