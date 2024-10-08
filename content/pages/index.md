@@ -3,7 +3,7 @@ title: Home
 type: Page
 sections:
   - type: HeroSection
-    title: 'Welcome,'
+    title: "Welcome\U0001F44B\U0001F3FD"
     subtitle: ''
     text: >+
       <div style="text-align: left">## I'm Mohammad Arqam, a current Bachelor's
