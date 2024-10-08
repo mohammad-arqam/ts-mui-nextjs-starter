@@ -7,8 +7,8 @@ sections:
     subtitle: ''
     text: >+
       <div style="text-align: left">## I'm [Mohammad
-      Arqam](www.linkedin.com/in/mohammadarqam), a current Bachelor's student at
-      the University of Manitoba.</div>
+      Arqam](https://www.linkedin.com/in/mohammadarqam), a current Bachelor's
+      student at the University of Manitoba.</div>
 
 
       ```
