@@ -17,7 +17,7 @@ sections:
     actions:
       - type: Button
         label: About me
-        url: 'javascript: (() => {  alert(''Hello, World!'');})();'
+        url: ''
         size: large
         variant: contained
         color: primary
