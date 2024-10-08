@@ -20,7 +20,7 @@ sections:
       url: /images/hero.svg
       altText: Hero section image
   - type: CardsSection
-    title: Cards Section Title
+    title: Navigate
     subtitle: The section subtitle
     items:
       - type: Card
