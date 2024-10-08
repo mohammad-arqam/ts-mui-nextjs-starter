@@ -6,8 +6,8 @@ sections:
     title: 'Welcome,'
     subtitle: ''
     text: >+
-      ### I'm Mohammad Arqam, a current Bachelor's student at the University of
-      Manitoba.
+      <div style="text-align: left">## I'm Mohammad Arqam, a current Bachelor's
+      student at the University of Manitoba.</div>
 
     actions:
       - type: Button
