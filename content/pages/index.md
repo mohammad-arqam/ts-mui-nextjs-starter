@@ -5,8 +5,9 @@ sections:
   - type: HeroSection
     title: 'Welcome,'
     subtitle: ''
-    text: |
-      ***My name is Mohammad Arqam***
+    text: |+
+      # *My name is Mohammad Arqam*
+
     actions:
       - type: Button
         label: Start Building
