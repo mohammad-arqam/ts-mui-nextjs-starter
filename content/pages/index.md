@@ -3,7 +3,7 @@ title: Home
 type: Page
 sections:
   - type: HeroSection
-    title: Welcome
+    title: 'Welcome,'
     subtitle: ''
     text: >
       This is the HeroSection component. You can visually edit this component &
