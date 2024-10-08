@@ -5,9 +5,7 @@ sections:
   - type: HeroSection
     title: 'Welcome,'
     subtitle: ''
-    text: |+
-      fsfsv `fsdfsfsdfs df` dfgsfdg
-
+    text: ''
     actions:
       - type: Button
         label: Start Building
