@@ -7,7 +7,7 @@ sections:
     subtitle: ''
     text: |+
       ```
-      My name is Mohammad Arqam 
+      System.out.print("My name is Mohammad Arqam"); 
       ```
 
     actions:
