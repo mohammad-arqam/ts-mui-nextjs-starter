@@ -6,7 +6,7 @@ sections:
     title: 'Welcome,'
     subtitle: ''
     text: >+
-      ## I'm Mohammad Arqam, a current Bachelor's student at the University of
+      ### I'm Mohammad Arqam, a current Bachelor's student at the University of
       Manitoba.
 
     actions:
