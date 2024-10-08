@@ -83,7 +83,7 @@ sections:
             variant: text
             color: primary
   - type: CardsSection
-    title: Cards Section Component
+    title: About me
     subtitle: Section subtitle here
     items:
       - type: Card
