@@ -87,16 +87,4 @@ sections:
             size: medium
             variant: text
             color: primary
-  - type: CardsSection
-    title: "\U0001F64B\U0001F3FD‍♂️ About me"
-    subtitle: Section subtitle here
-    items:
-      - type: Card
-        title: ''
-        text: ''
-        image:
-          type: Image
-          url: /images/mui-5.svg
-          altText: Item image
-        actions: []
 ---
