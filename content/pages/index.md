@@ -4,7 +4,7 @@ type: Page
 sections:
   - type: HeroSection
     title: 'Welcome,'
-    subtitle: hjhhkn <gcg>
+    subtitle: 'hjhhkn '
     text: ''
     actions:
       - type: Button
