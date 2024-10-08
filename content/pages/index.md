@@ -100,7 +100,7 @@ sections:
           altText: Item image
         actions: []
       - type: Card
-        title: Item Title
+        title: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
