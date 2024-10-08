@@ -4,7 +4,7 @@ type: Page
 sections:
   - type: HeroSection
     title: 'Welcome,'
-    subtitle: ''
+    subtitle: hjhh
     text: ''
     actions:
       - type: Button
